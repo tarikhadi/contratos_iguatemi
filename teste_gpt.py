@@ -8,8 +8,9 @@ from langchain.schema import Document
 from langchain.chat_models import ChatOpenAI
 from langchain.chains import RetrievalQA
 
+
 # Load JSON file
-with open("/Users/tarikhadi/Desktop/contratos_json.json", 'r') as file:
+with open("contratos_json.json", 'r') as file:  # Updated file path
     json_data = json.load(file)
 
 data_de_hoje = datetime.today().strftime("%d-%m-%Y")
