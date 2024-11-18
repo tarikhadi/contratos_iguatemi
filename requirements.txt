@@ -3,4 +3,4 @@ streamlit
 langchain>=0.3.7
 langchain-community
 chromadb == 0.4.24
-
+pysqlite3-binary
