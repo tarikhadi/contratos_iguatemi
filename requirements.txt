@@ -2,3 +2,4 @@ openai
 langchain
 streamlit
 langchain-community
+chromadb
