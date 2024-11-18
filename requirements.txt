@@ -2,3 +2,4 @@ openai
 streamlit
 langchain>=0.3.7
 langchain-community
+chromadb
