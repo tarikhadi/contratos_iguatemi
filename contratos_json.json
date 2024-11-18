@@ -1,0 +1,711 @@
+{
+    "Arte em Retalhos - Nova Locação -1036 (3923) - 16102019.txt": {
+        "nome_da_loja_querendo_alugar": "ARTE EM RETALHOS COMERCIO DE PRESENTES LTDA",
+        "reajuste_previsto": "IGPM_-08/2019",
+        "data_inicio_contrato": "01/12/2019",
+        "escopos_previstos_contrato_XXXX": [
+            "Atividades ligadas ao entretenimento infantil: oficinas, desenhos, teatros e realizacao de festas",
+            "Comercialização de brinquedos educativos nacionais e importados"
+        ],
+        "multa_resolucao_imotivada": "Não informado",
+        "condicoes_comerciais_previstas": {
+            "aluguel_percentual": "10%",
+            "aluguel_minimo_mensal": "R$ 7.278,52"
+        },
+        "renovacao_automatica": "Não informado",
+        "escopos_nao_previstos_contrato_XXXX": "Não informado",
+        "cnpj": "08.821.834/0001-70",
+        "vencimento_contrato": "30/11/2024",
+        "endereco": "Avenida Giovanni Gronchi, n 5.819",
+        "representantes_legais": [
+            {
+                "nome": "RICARDO TALLIA LODUCCA",
+                "cpf": "311.906.248-00"
+            }
+        ],
+        "garantia_prevista": "Não aplicável",
+        "fundo_promocao": "Não aplicável",
+        "limite_carga_forca_luz": "2000KVA",
+        "raio_exclusividade": "3.000 m²",
+        "prazo_locacao": "5 anos",
+        "aluguel_escalonado": [
+            {
+                "data": "01/12/2020",
+                "acrescimo": "0,99"
+            },
+            {
+                "data": "01/12/2021",
+                "acrescimo": "56'0"
+            },
+            {
+                "data": "01/12/2022",
+                "acrescimo": "66'0"
+            },
+            {
+                "data": "01/12/2023",
+                "acrescimo": "66'0"
+            }
+        ],
+        "penalidades_por_inadimplencia": "Não informado"
+    }, 
+    "5 à Sec - Resumo Renovação - 0227-19 - MPSC - 12082019.txt": {
+        "nome_da_loja_querendo_alugar": "AVB Prestação de Serviços de Lavanderia LTDA - ME",
+        "reajuste_previsto": "IGP-M/FGV",
+        "data_inicio_contrato": "01/03/2020",
+        "escopos_previstos_contrato_XXXX": [
+            "Opção de renovação",
+            "Cláusulas de atraso",
+            "Multa por rescisão imotivada"
+        ],
+        "multa_resolucao_imotivada": "1.000,00 (hum mil reais) por dia",
+        "condicoes_comerciais_previstas": {
+            "aluguel_percentual": "5%",
+            "aluguel_minimo_mensal": "5.710,24"
+        },
+        "renovacao_automatica": "Não informado",
+        "escopos_nao_previstos_contrato_XXXX": "",
+        "cnpj": "10.527.279/0001-10",
+        "vencimento_contrato": "28/02/2025",
+        "endereco": "Av. Dr. Chucri Zaidan - loja 26, Piso 1º subsolo no. 902, São Paulo, SP",
+        "representantes_legais": [
+            {
+                "nome": "Elizabeth Araujo Vieira",
+                "cpf": "087.720.918-94"
+            },
+            {
+                "nome": "Sergio Bruni",
+                "cpf": "893.770.018-20"
+            }
+        ],
+        "garantia_prevista": "Não aplicável",
+        "fundo_promocao": "20%",
+        "limite_carga_forca_luz": "115,00 KVA",
+        "raio_exclusividade": "2000 metros",
+        "prazo_locacao": "5 anos",
+        "aluguel_escalonado": [
+            {
+                "data": "01/03/2021",
+                "acrescimo": "4%"
+            },
+            {
+                "data": "01/03/2022",
+                "acrescimo": "3%"
+            },
+            {
+                "data": "01/03/2023",
+                "acrescimo": "3%"
+            }
+        ],
+        "penalidades_por_inadimplencia": "Não informado"
+    },
+    "Outback - Nova Locação - 1101 (5321) - 15022022.txt": {
+        "nome_da_loja_querendo_alugar": "Outback Steakhouse Comércio de Alimentos LTDA",
+        "reajuste_previsto": "IGP-M/FGV",
+        "data_inicio_contrato": "01/05/2022",
+        "escopos_previstos_contrato_XXXX": [
+            "Serviços de alimentação",
+            "Promoções gastronômicas sazonais"
+        ],
+        "multa_resolucao_imotivada": "R$ 10.000,00 por dia",
+        "condicoes_comerciais_previstas": {
+            "aluguel_percentual": "12%",
+            "aluguel_minimo_mensal": "R$ 15.000,00"
+        },
+        "renovacao_automatica": "Sim",
+        "escopos_nao_previstos_contrato_XXXX": "",
+        "cnpj": "12.345.678/0001-12",
+        "vencimento_contrato": "15/05/2025",
+        "endereco": "Avenida das Américas, 1234",
+        "representantes_legais": [
+            {
+                "nome": "José da Silva",
+                "cpf": "123.456.789-00"
+            }
+        ],
+        "garantia_prevista": "Seguro Fiança",
+        "fundo_promocao": "15%",
+        "limite_carga_forca_luz": "250 KVA",
+        "raio_exclusividade": "1000 metros",
+        "prazo_locacao": "5 anos",
+        "aluguel_escalonado": [
+            {
+                "data": "01/05/2023",
+                "acrescimo": "5%"
+            },
+            {
+                "data": "01/05/2024",
+                "acrescimo": "3%"
+            }
+        ],
+        "penalidades_por_inadimplencia": "10% sobre o aluguel mensal",
+        "local": ["Iguatemi Porto Alegre", "JK Iguatemi"]
+    },
+    "Cacau Show - Renovação Contratual - 1302 (4789) - 20032021.txt": {
+        "nome_da_loja_querendo_alugar": "Cacau Show Comércio de Chocolates Finos LTDA",
+        "reajuste_previsto": "IGPM_-01/2021",
+        "data_inicio_contrato": "01/06/2021",
+        "escopos_previstos_contrato_XXXX": [
+            "Venda de chocolates premium",
+            "Atendimento personalizado para eventos"
+        ],
+        "multa_resolucao_imotivada": "R$ 5.000,00 fixo",
+        "condicoes_comerciais_previstas": {
+            "aluguel_percentual": "8%",
+            "aluguel_minimo_mensal": "R$ 10.000,00"
+        },
+        "renovacao_automatica": "Sim",
+        "escopos_nao_previstos_contrato_XXXX": "",
+        "cnpj": "23.456.789/0001-23",
+        "vencimento_contrato": "20/02/2025",
+        "endereco": "Rua das Flores, 987",
+        "representantes_legais": [
+            {
+                "nome": "Maria Oliveira",
+                "cpf": "234.567.890-12"
+            }
+        ],
+        "garantia_prevista": "Depósito Caução",
+        "fundo_promocao": "10%",
+        "limite_carga_forca_luz": "300 KVA",
+        "raio_exclusividade": "500 metros",
+        "prazo_locacao": "5 anos",
+        "aluguel_escalonado": [
+            {
+                "data": "01/06/2022",
+                "acrescimo": "4%"
+            },
+            {
+                "data": "01/06/2023",
+                "acrescimo": "3%"
+            }
+        ],
+        "penalidades_por_inadimplencia": "5% do valor do contrato",
+        "local": ["Iguatemi São Paulo"]
+    },
+    "Habib's - Nova Locação - 1230 (5897) - 01012023.txt": {
+        "nome_da_loja_querendo_alugar": "Habib's Comércio de Alimentos LTDA",
+        "reajuste_previsto": "IPCA",
+        "data_inicio_contrato": "01/01/2023",
+        "escopos_previstos_contrato_XXXX": [
+            "Venda de comidas árabes",
+            "Entrega rápida via delivery"
+        ],
+        "multa_resolucao_imotivada": "R$ 8.000,00 fixo",
+        "condicoes_comerciais_previstas": {
+            "aluguel_percentual": "10%",
+            "aluguel_minimo_mensal": "R$ 12.500,00"
+        },
+        "renovacao_automatica": "Sim",
+        "escopos_nao_previstos_contrato_XXXX": "",
+        "cnpj": "34.567.890/0001-34",
+        "vencimento_contrato": "01/03/2025",
+        "endereco": "Avenida Paulista, 123",
+        "representantes_legais": [
+            {
+                "nome": "Carlos Almeida",
+                "cpf": "345.678.901-23"
+            }
+        ],
+        "garantia_prevista": "Seguro Caução",
+        "fundo_promocao": "12%",
+        "limite_carga_forca_luz": "280 KVA",
+        "raio_exclusividade": "750 metros",
+        "prazo_locacao": "3 anos",
+        "aluguel_escalonado": [
+            {
+                "data": "01/01/2024",
+                "acrescimo": "3%"
+            },
+            {
+                "data": "01/01/2025",
+                "acrescimo": "2%"
+            }
+        ],
+        "penalidades_por_inadimplencia": "7% do valor do contrato",
+        "local": ["Iguatemi Campinas"]
+    },
+    "Kopenhagen - Renovação - 1333 (5621) - 02032019.txt": {
+        "nome_da_loja_querendo_alugar": "Kopenhagen Comércio de Chocolates LTDA",
+        "reajuste_previsto": "INPC",
+        "data_inicio_contrato": "01/02/2020",
+        "escopos_previstos_contrato_XXXX": [
+            "Venda de chocolates e cafés",
+            "Eventos personalizados para clientes VIPs"
+        ],
+        "multa_resolucao_imotivada": "R$ 6.000,00 fixo",
+        "condicoes_comerciais_previstas": {
+            "aluguel_percentual": "9%",
+            "aluguel_minimo_mensal": "R$ 9.000,00"
+        },
+        "renovacao_automatica": "Sim",
+        "escopos_nao_previstos_contrato_XXXX": "",
+        "cnpj": "45.678.901/0001-45",
+        "vencimento_contrato": "10/01/2025",
+        "endereco": "Rua das Palmeiras, 678",
+        "representantes_legais": [
+            {
+                "nome": "Luciana Ribeiro",
+                "cpf": "456.789.012-34"
+            }
+        ],
+        "garantia_prevista": "Seguro Fiança",
+        "fundo_promocao": "10%",
+        "limite_carga_forca_luz": "300 KVA",
+        "raio_exclusividade": "1.000 metros",
+        "prazo_locacao": "5 anos",
+        "aluguel_escalonado": [
+            {
+                "data": "01/02/2021",
+                "acrescimo": "4%"
+            },
+            {
+                "data": "01/02/2023",
+                "acrescimo": "3%"
+            }
+        ],
+        "penalidades_por_inadimplencia": "6% do valor do contrato",
+        "local": ["JK Iguatemi"]
+    },
+     "McDonald's - Nova Locação - 1505 (6210) - 25082023.txt": {
+        "nome_da_loja_querendo_alugar": "Arcos Dourados Comércio de Alimentos LTDA",
+        "reajuste_previsto": "IGP-M/FGV",
+        "data_inicio_contrato": "01/09/2023",
+        "escopos_previstos_contrato_XXXX": [
+            "Venda de fast food",
+            "Participação em promoções locais"
+        ],
+        "multa_resolucao_imotivada": "R$ 12.000,00 fixo",
+        "condicoes_comerciais_previstas": {
+            "aluguel_percentual": "10%",
+            "aluguel_minimo_mensal": "R$ 20.000,00"
+        },
+        "renovacao_automatica": "Sim",
+        "escopos_nao_previstos_contrato_XXXX": "",
+        "cnpj": "56.789.012/0001-56",
+        "vencimento_contrato": "01/03/2025",
+        "endereco": "Rua Principal, 200",
+        "representantes_legais": [
+            {
+                "nome": "Ana Costa",
+                "cpf": "567.890.123-45"
+            }
+        ],
+        "garantia_prevista": "Seguro Caução",
+        "fundo_promocao": "15%",
+        "limite_carga_forca_luz": "350 KVA",
+        "raio_exclusividade": "750 metros",
+        "prazo_locacao": "2 anos",
+        "aluguel_escalonado": [
+            {
+                "data": "01/09/2024",
+                "acrescimo": "4%"
+            }
+        ],
+        "penalidades_por_inadimplencia": "10% do valor do contrato",
+        "local": ["Iguatemi Ribeirão Preto", "Iguatemi Brasília"]
+    },
+    "Burger King - Renovação Contratual - 1707 (4523) - 10112021.txt": {
+        "nome_da_loja_querendo_alugar": "BK Brasil Operação e Assessoria a Restaurantes LTDA",
+        "reajuste_previsto": "IPCA",
+        "data_inicio_contrato": "01/01/2022",
+        "escopos_previstos_contrato_XXXX": [
+            "Venda de lanches e bebidas",
+            "Campanhas promocionais exclusivas"
+        ],
+        "multa_resolucao_imotivada": "R$ 8.000,00 fixo",
+        "condicoes_comerciais_previstas": {
+            "aluguel_percentual": "9%",
+            "aluguel_minimo_mensal": "R$ 18.000,00"
+        },
+        "renovacao_automatica": "Não informado",
+        "escopos_nao_previstos_contrato_XXXX": "",
+        "cnpj": "67.890.123/0001-67",
+        "vencimento_contrato": "30/06/2025",
+        "endereco": "Avenida Central, 500",
+        "representantes_legais": [
+            {
+                "nome": "Pedro Lima",
+                "cpf": "678.901.234-56"
+            }
+        ],
+        "garantia_prevista": "Seguro Caução",
+        "fundo_promocao": "10%",
+        "limite_carga_forca_luz": "300 KVA",
+        "raio_exclusividade": "1.000 metros",
+        "prazo_locacao": "3 anos",
+        "aluguel_escalonado": [
+            {
+                "data": "01/01/2023",
+                "acrescimo": "5%"
+            },
+            {
+                "data": "01/01/2024",
+                "acrescimo": "3%"
+            }
+        ],
+        "penalidades_por_inadimplencia": "5% do valor do contrato",
+        "local": ["Iguatemi Porto Alegre"]
+    },
+    "Lojas Americanas - Nova Locação - 1809 (3924) - 12052022.txt": {
+        "nome_da_loja_querendo_alugar": "Lojas Americanas S.A.",
+        "reajuste_previsto": "INPC",
+        "data_inicio_contrato": "01/06/2022",
+        "escopos_previstos_contrato_XXXX": [
+            "Venda de eletrônicos, vestuário e alimentos",
+            "Serviços de recarga e pagamento"
+        ],
+        "multa_resolucao_imotivada": "R$ 20.000,00 fixo",
+        "condicoes_comerciais_previstas": {
+            "aluguel_percentual": "7%",
+            "aluguel_minimo_mensal": "R$ 30.000,00"
+        },
+        "renovacao_automatica": "Sim",
+        "escopos_nao_previstos_contrato_XXXX": "",
+        "cnpj": "78.901.234/0001-78",
+        "vencimento_contrato": "01/12/2024",
+        "endereco": "Rua das Nações, 345",
+        "representantes_legais": [
+            {
+                "nome": "Juliana Souza",
+                "cpf": "789.012.345-67"
+            }
+        ],
+        "garantia_prevista": "Seguro Fiança",
+        "fundo_promocao": "20%",
+        "limite_carga_forca_luz": "400 KVA",
+        "raio_exclusividade": "1.500 metros",
+        "prazo_locacao": "2 anos",
+        "aluguel_escalonado": [
+            {
+                "data": "01/06/2023",
+                "acrescimo": "6%"
+            }
+        ],
+        "penalidades_por_inadimplencia": "8% do valor do contrato",
+        "local": ["JK Iguatemi", "Iguatemi Fortaleza"]
+    },
+    "Pague Menos - Renovação - 1922 (5418) - 21032020.txt": {
+        "nome_da_loja_querendo_alugar": "Farmácias Pague Menos S.A.",
+        "reajuste_previsto": "IGP-M",
+        "data_inicio_contrato": "01/04/2020",
+        "escopos_previstos_contrato_XXXX": [
+            "Venda de medicamentos",
+            "Atendimento personalizado de farmácia"
+        ],
+        "multa_resolucao_imotivada": "R$ 10.000,00 fixo",
+        "condicoes_comerciais_previstas": {
+            "aluguel_percentual": "8%",
+            "aluguel_minimo_mensal": "R$ 14.000,00"
+        },
+        "renovacao_automatica": "Sim",
+        "escopos_nao_previstos_contrato_XXXX": "",
+        "cnpj": "89.012.345/0001-89",
+        "vencimento_contrato": "01/04/2025",
+        "endereco": "Praça Central, 100",
+        "representantes_legais": [
+            {
+                "nome": "Fernando Dias",
+                "cpf": "890.123.456-78"
+            }
+        ],
+        "garantia_prevista": "Seguro Caução",
+        "fundo_promocao": "10%",
+        "limite_carga_forca_luz": "250 KVA",
+        "raio_exclusividade": "500 metros",
+        "prazo_locacao": "5 anos",
+        "aluguel_escalonado": [
+            {
+                "data": "01/04/2021",
+                "acrescimo": "3%"
+            },
+            {
+                "data": "01/04/2023",
+                "acrescimo": "3%"
+            }
+        ],
+        "penalidades_por_inadimplencia": "6% do valor do contrato",
+        "local": ["Iguatemi Recife"]
+    },
+    "Renner - Renovação - 2020 (4593) - 15042021.txt": {
+        "nome_da_loja_querendo_alugar": "Lojas Renner S.A.",
+        "reajuste_previsto": "IGPM_-04/2021",
+        "data_inicio_contrato": "01/05/2021",
+        "escopos_previstos_contrato_XXXX": [
+            "Venda de roupas e acessórios",
+            "Consultoria de moda personalizada"
+        ],
+        "multa_resolucao_imotivada": "R$ 25.000,00 fixo",
+        "condicoes_comerciais_previstas": {
+            "aluguel_percentual": "6%",
+            "aluguel_minimo_mensal": "R$ 40.000,00"
+        },
+        "renovacao_automatica": "Não informado",
+        "escopos_nao_previstos_contrato_XXXX": "",
+        "cnpj": "90.123.456/0001-90",
+        "vencimento_contrato": "15/04/2025",
+        "endereco": "Alameda das Flores, 789",
+        "representantes_legais": [
+            {
+                "nome": "Carla Andrade",
+                "cpf": "901.234.567-89"
+            }
+        ],
+        "garantia_prevista": "Depósito Caução",
+        "fundo_promocao": "12%",
+        "limite_carga_forca_luz": "500 KVA",
+        "raio_exclusividade": "1.000 metros",
+        "prazo_locacao": "4 anos",
+        "aluguel_escalonado": [
+            {
+                "data": "01/05/2022",
+                "acrescimo": "4%"
+            },
+            {
+                "data": "01/05/2024",
+                "acrescimo": "5%"
+            }
+        ],
+        "penalidades_por_inadimplencia": "10% do valor do contrato",
+        "local": ["Iguatemi Florianópolis"]
+    },
+    "Subway - Nova Locação - 2105 (5734) - 12072022.txt": {
+        "nome_da_loja_querendo_alugar": "Subway Comércio de Alimentos LTDA",
+        "reajuste_previsto": "IPCA",
+        "data_inicio_contrato": "01/08/2022",
+        "escopos_previstos_contrato_XXXX": [
+            "Venda de sanduíches rápidos",
+            "Promoções exclusivas para eventos locais"
+        ],
+        "multa_resolucao_imotivada": "R$ 7.000,00 fixo",
+        "condicoes_comerciais_previstas": {
+            "aluguel_percentual": "9%",
+            "aluguel_minimo_mensal": "R$ 11.000,00"
+        },
+        "renovacao_automatica": "Sim",
+        "escopos_nao_previstos_contrato_XXXX": "",
+        "cnpj": "91.234.567/0001-91",
+        "vencimento_contrato": "01/12/2024",
+        "endereco": "Rua Nova, 210",
+        "representantes_legais": [
+            {
+                "nome": "Roberto Martins",
+                "cpf": "912.345.678-90"
+            }
+        ],
+        "garantia_prevista": "Seguro Fiança",
+        "fundo_promocao": "8%",
+        "limite_carga_forca_luz": "200 KVA",
+        "raio_exclusividade": "700 metros",
+        "prazo_locacao": "2 anos",
+        "aluguel_escalonado": [
+            {
+                "data": "01/08/2023",
+                "acrescimo": "5%"
+            }
+        ],
+        "penalidades_por_inadimplencia": "6% do valor do contrato",
+        "local": ["Iguatemi Salvador", "Iguatemi Brasília"]
+    },
+    "Pizza Hut - Renovação Contratual - 2408 (6145) - 08052020.txt": {
+        "nome_da_loja_querendo_alugar": "Pizza Hut Brasil Comércio de Alimentos LTDA",
+        "reajuste_previsto": "IGP-M/FGV",
+        "data_inicio_contrato": "01/06/2020",
+        "escopos_previstos_contrato_XXXX": [
+            "Venda de pizzas",
+            "Entrega rápida via delivery"
+        ],
+        "multa_resolucao_imotivada": "R$ 10.000,00 fixo",
+        "condicoes_comerciais_previstas": {
+            "aluguel_percentual": "11%",
+            "aluguel_minimo_mensal": "R$ 18.000,00"
+        },
+        "renovacao_automatica": "Não informado",
+        "escopos_nao_previstos_contrato_XXXX": "",
+        "cnpj": "92.345.678/0001-92",
+        "vencimento_contrato": "10/02/2025",
+        "endereco": "Avenida Gourmet, 45",
+        "representantes_legais": [
+            {
+                "nome": "Patrícia Almeida",
+                "cpf": "923.456.789-01"
+            }
+        ],
+        "garantia_prevista": "Seguro Caução",
+        "fundo_promocao": "12%",
+        "limite_carga_forca_luz": "250 KVA",
+        "raio_exclusividade": "1.000 metros",
+        "prazo_locacao": "5 anos",
+        "aluguel_escalonado": [
+            {
+                "data": "01/06/2021",
+                "acrescimo": "3%"
+            },
+            {
+                "data": "01/06/2023",
+                "acrescimo": "4%"
+            }
+        ],
+        "penalidades_por_inadimplencia": "7% do valor do contrato",
+        "local": ["JK Iguatemi"]
+    },
+    "Starbucks - Nova Locação - 2702 (7012) - 11062023.txt": {
+        "nome_da_loja_querendo_alugar": "Starbucks Brasil Comércio de Cafés LTDA",
+        "reajuste_previsto": "INPC",
+        "data_inicio_contrato": "01/07/2023",
+        "escopos_previstos_contrato_XXXX": [
+            "Venda de cafés especiais",
+            "Espaço para coworking"
+        ],
+        "multa_resolucao_imotivada": "R$ 6.000,00 fixo",
+        "condicoes_comerciais_previstas": {
+            "aluguel_percentual": "10%",
+            "aluguel_minimo_mensal": "R$ 14.500,00"
+        },
+        "renovacao_automatica": "Sim",
+        "escopos_nao_previstos_contrato_XXXX": "",
+        "cnpj": "93.456.789/0001-93",
+        "vencimento_contrato": "01/12/2024",
+        "endereco": "Praça dos Cafés, 98",
+        "representantes_legais": [
+            {
+                "nome": "Renata Costa",
+                "cpf": "934.567.890-12"
+            }
+        ],
+        "garantia_prevista": "Seguro Caução",
+        "fundo_promocao": "9%",
+        "limite_carga_forca_luz": "200 KVA",
+        "raio_exclusividade": "800 metros",
+        "prazo_locacao": "2 anos",
+        "aluguel_escalonado": [
+            {
+                "data": "01/07/2024",
+                "acrescimo": "5%"
+            }
+        ],
+        "penalidades_por_inadimplencia": "5% do valor do contrato",
+        "local": ["Iguatemi São Paulo"]
+    },
+    "Ri Happy - Renovação - 2903 (7821) - 14032022.txt": {
+        "nome_da_loja_querendo_alugar": "Ri Happy Comércio de Brinquedos LTDA",
+        "reajuste_previsto": "IGP-M",
+        "data_inicio_contrato": "01/04/2022",
+        "escopos_previstos_contrato_XXXX": [
+            "Venda de brinquedos educativos",
+            "Promoções sazonais para crianças"
+        ],
+        "multa_resolucao_imotivada": "R$ 9.000,00 fixo",
+        "condicoes_comerciais_previstas": {
+            "aluguel_percentual": "8%",
+            "aluguel_minimo_mensal": "R$ 13.000,00"
+        },
+        "renovacao_automatica": "Não informado",
+        "escopos_nao_previstos_contrato_XXXX": "",
+        "cnpj": "94.567.890/0001-94",
+        "vencimento_contrato": "01/06/2025",
+        "endereco": "Alameda dos Brinquedos, 23",
+        "representantes_legais": [
+            {
+                "nome": "Gustavo Lima",
+                "cpf": "945.678.901-23"
+            }
+        ],
+        "garantia_prevista": "Seguro Fiança",
+        "fundo_promocao": "11%",
+        "limite_carga_forca_luz": "300 KVA",
+        "raio_exclusividade": "1.200 metros",
+        "prazo_locacao": "3 anos",
+        "aluguel_escalonado": [
+            {
+                "data": "01/04/2023",
+                "acrescimo": "3%"
+            },
+            {
+                "data": "01/04/2024",
+                "acrescimo": "3%"
+            }
+        ],
+        "penalidades_por_inadimplencia": "6% do valor do contrato",
+        "local": ["Iguatemi Campinas"]
+    },
+    "Saraiva - Nova Locação - 3106 (8543) - 05082022.txt": {
+        "nome_da_loja_querendo_alugar": "Saraiva Livreiros S.A.",
+        "reajuste_previsto": "IPCA",
+        "data_inicio_contrato": "01/09/2022",
+        "escopos_previstos_contrato_XXXX": [
+            "Venda de livros e revistas",
+            "Espaço para eventos literários"
+        ],
+        "multa_resolucao_imotivada": "R$ 12.000,00 fixo",
+        "condicoes_comerciais_previstas": {
+            "aluguel_percentual": "7%",
+            "aluguel_minimo_mensal": "R$ 10.500,00"
+        },
+        "renovacao_automatica": "Sim",
+        "escopos_nao_previstos_contrato_XXXX": "",
+        "cnpj": "95.678.901/0001-95",
+        "vencimento_contrato": "15/03/2025",
+        "endereco": "Avenida Literária, 45",
+        "representantes_legais": [
+            {
+                "nome": "Fernanda Moura",
+                "cpf": "956.789.012-34"
+            }
+        ],
+        "garantia_prevista": "Seguro Caução",
+        "fundo_promocao": "12%",
+        "limite_carga_forca_luz": "250 KVA",
+        "raio_exclusividade": "900 metros",
+        "prazo_locacao": "2 anos",
+        "aluguel_escalonado": [
+            {
+                "data": "01/09/2023",
+                "acrescimo": "5%"
+            }
+        ],
+        "penalidades_por_inadimplencia": "8% do valor do contrato",
+        "local": ["Iguatemi Fortaleza", "JK Iguatemi"]
+    },
+    "Decathlon - Renovação Contratual - 3307 (9123) - 11042021.txt": {
+        "nome_da_loja_querendo_alugar": "Decathlon Comércio de Artigos Esportivos LTDA",
+        "reajuste_previsto": "IGPM_-04/2021",
+        "data_inicio_contrato": "01/05/2021",
+        "escopos_previstos_contrato_XXXX": [
+            "Venda de equipamentos esportivos",
+            "Workshops de esportes"
+        ],
+        "multa_resolucao_imotivada": "R$ 20.000,00 fixo",
+        "condicoes_comerciais_previstas": {
+            "aluguel_percentual": "6%",
+            "aluguel_minimo_mensal": "R$ 35.000,00"
+        },
+        "renovacao_automatica": "Não informado",
+        "escopos_nao_previstos_contrato_XXXX": "",
+        "cnpj": "96.789.012/0001-96",
+        "vencimento_contrato": "01/05/2025",
+        "endereco": "Rua Esportiva, 67",
+        "representantes_legais": [
+            {
+                "nome": "Marcelo Silva",
+                "cpf": "967.890.123-45"
+            }
+        ],
+        "garantia_prevista": "Seguro Caução",
+        "fundo_promocao": "15%",
+        "limite_carga_forca_luz": "400 KVA",
+        "raio_exclusividade": "1.500 metros",
+        "prazo_locacao": "4 anos",
+        "aluguel_escalonado": [
+            {
+                "data": "01/05/2022",
+                "acrescimo": "5%"
+            },
+            {
+                "data": "01/05/2024",
+                "acrescimo": "4%"
+            }
+        ],
+        "penalidades_por_inadimplencia": "10% do valor do contrato",
+        "local": ["Iguatemi Recife"]
+    }
+}
