@@ -162,7 +162,7 @@ if prompt := st.chat_input("O que quer saber sobre os contratos?"):
     qa_chain = RetrievalQA.from_chain_type(
         llm,
         chain_type="stuff",
-        retriever=vectorstore.as_retriever(search_kwargs={"k": 5}),
+        retriever=vectorstore.as_retriever(search_kwargs={"k": 100}),
         return_source_documents=True,
     )
 
