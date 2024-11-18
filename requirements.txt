@@ -1,5 +1,6 @@
 openai
-langchain
 streamlit
-langchain-community
+langchain==0.3.19
+langchain-community==0.3.7
 chromadb==0.4.2
+
