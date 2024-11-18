@@ -3,3 +3,4 @@ streamlit
 langchain>=0.3.7
 langchain-community
 chromadb
+sqlite3 >= 3.35.0
